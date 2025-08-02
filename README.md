@@ -57,7 +57,7 @@ The dataset includes:
    - **Hypothesis**  
      - H₀: No significant difference in margins between vendor groups  
      - H₁: Significant difference exists  
-   - ✅ **Result**: Null hypothesis rejected  
+   -  **Result**: Null hypothesis rejected  
    - **Implication**: Two distinct profitability models are present.  
      - High-margin vendors: Could benefit from **better pricing strategies**  
      - High-sales vendors: Could focus on **operational efficiency**
