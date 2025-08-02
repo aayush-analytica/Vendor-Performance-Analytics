@@ -75,7 +75,7 @@ The dataset includes:
 
 ## 📸 Dashboard Preview
 
-> 📌 _[Insert dashboard screenshot here]_  
+> 📌 _[https://github.com/aayush-analytica/Vendor-Performance-Analytics/blob/main/Dashboard.png]_  
 > _(Optional: You can embed images using `![Alt Text](link-to-image)` in GitHub markdown)_
 
 ---
