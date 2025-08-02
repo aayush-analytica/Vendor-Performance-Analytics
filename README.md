@@ -2,7 +2,7 @@
 
 **Effective inventory and sales management are critical for optimizing profitability in the retail and wholesale industry.** This project aims to empower decision-makers with insights into vendor and brand performance to reduce risks and maximize profits.
 
-> 🔗 **Dashboard Link:** https://github.com/aayush-analytica/Vendor-Performance-Analytics/blob/main/Dashboard.png
+> 🔗 **Dashboard Link:** _https://github.com/aayush-analytica/Vendor-Performance-Analytics/blob/main/Dashboard.png_
 
 ---
 
