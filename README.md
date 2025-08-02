@@ -20,14 +20,15 @@ The primary goals of this analytics project are to:
 
 ## 📊 Dataset
 
-The dataset includes:
+The dataset used for this project can be found [here](https://github.com/aayush-analytica/Vendor-Performance-Analytics/blob/main/vendor_sales_summary.csv).
 
-- Sales transactions by brand/vendor
-- Purchase orders with unit pricing
-- Inventory data with turnover rates
-- Profitability metrics per vendor
+It includes:
 
----
+- 📦 Sales transactions by brand/vendor  
+- 💰 Purchase orders with unit pricing  
+- 🗃️ Inventory data with turnover rates  
+- 📈 Profitability metrics per vendor
+
 
 ## 📌 Research Questions & KPIs
 
@@ -75,8 +76,8 @@ The dataset includes:
 
 ## 📸 Dashboard Preview
 
-> 📌 _[https://github.com/aayush-analytica/Vendor-Performance-Analytics/blob/main/Dashboard.png]_  
-> _(Optional: You can embed images using `![Alt Text](link-to-image)` in GitHub markdown)_
+> 📌 _https://github.com/aayush-analytica/Vendor-Performance-Analytics/blob/main/Dashboard.png_
+
 
 ---
 
